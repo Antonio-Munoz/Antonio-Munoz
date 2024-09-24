@@ -4,15 +4,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hzbmdwdWZuMjF4a3YwZW53NG02ZnhyNmRncGU3M2FwaXpndXM1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiDpJx1bp4paI63FeS/giphy.gif"  />
-
-###
-
 <h2 align="center">"I'm Antonio, a passionate software developer 🚀, exploring diverse technologies to build innovative solutions 🛠️."</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Antonio-Munoz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -21,7 +15,11 @@
 
 ###
 
-<div align="center">
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hzbmdwdWZuMjF4a3YwZW53NG02ZnhyNmRncGU3M2FwaXpndXM1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CiDpJx1bp4paI63FeS/giphy.gif"  />
+
+###
+
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
