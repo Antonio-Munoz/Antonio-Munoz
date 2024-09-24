@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!;I+hope+you+like+it+;%3AD" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;I+hope+you+like+it+;%3AD" alt="Typing SVG" /></a>
+
 ### <div align="center">"I'm Antonio, a passionate software developer 🚀, exploring diverse technologies to build innovative solutions 🛠️."</div>  
   
 
